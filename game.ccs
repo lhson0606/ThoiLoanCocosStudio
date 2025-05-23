@@ -6987,6 +6987,13 @@
             <Project Name="LoginForm.csd" Type="Layer" />
             <Project Name="LoginProgressBar.csd" Type="Layer" />
           </Folder>
+          <Folder Name="map">
+            <Folder Name="base">
+              <Folder Name="default">
+                <Project Name="LayerBackground.csd" Type="Layer" />
+              </Folder>
+            </Folder>
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>
