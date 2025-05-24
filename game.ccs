@@ -6986,12 +6986,18 @@
           <Folder Name="auth">
             <Project Name="LoginForm.csd" Type="Layer" />
             <Project Name="LoginProgressBar.csd" Type="Layer" />
+            <Project Name="Connecting.csd" Type="Layer" />
           </Folder>
           <Folder Name="map">
             <Folder Name="base">
               <Folder Name="default">
                 <Project Name="LayerBackground.csd" Type="Layer" />
               </Folder>
+            </Folder>
+          </Folder>
+          <Folder Name="common">
+            <Folder Name="dialogs">
+              <Project Name="ConfirmDialog.csd" Type="Layer" />
             </Folder>
           </Folder>
         </Folder>
